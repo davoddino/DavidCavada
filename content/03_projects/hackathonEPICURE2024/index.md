@@ -54,7 +54,7 @@ The agenda for Day 1 was as follows:
 
 **Images from Day 1:**
 
-![](1.HEIC)
+![](1.jpg)
 
 ## Day 2: Advanced GPU Optimization and Profiling
 

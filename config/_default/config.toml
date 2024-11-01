@@ -3,7 +3,7 @@ homepage = "whoami"
 # Change baseurl before deploy
 baseurl = "https://davoddino.github.io"
 languageCode = "en-us"
-paginate = 10
+pagerSize = 5
 title = "David Cavada"
 
 # Theme i18n support

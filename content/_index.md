@@ -47,6 +47,11 @@ I am deeply invested in creating content around fitness and exploring the potent
 
 ## News 🎉
 
+### EPICURE Hackathon 2024 🚀
+
+I recently took part in the **EPICURE Hackathon 2024**, an intensive event focused on **GPU programming** and **high-performance computing (HPC)** in collaboration with **CINECA**. This experience allowed me to dive deep into cutting-edge technologies like CUDA, OpenACC, and advanced optimization techniques. It was an invaluable opportunity to connect with experts in HPC and expand my technical knowledge for future research and development projects. 🌐💻
+
+Stay tuned as I apply these new skills to upcoming projects!
 
 
 <!-- ## Connect with Me

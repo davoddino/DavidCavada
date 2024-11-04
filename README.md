@@ -5,7 +5,7 @@ Welcome to the repository for my personal website, built with [Hugo](https://goh
 ---
 
 ## 🚀 About Me
-
+ 
 I'm **David Cavada**, a Computer Science student at the University of Verona with a deep interest in sustainable tourism, machine learning, music production, and video editing. My website serves as a portfolio of my projects, featuring work in technology and media that reflects my passion for innovation and creativity.
 
 **Highlights:**

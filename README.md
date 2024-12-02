@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal website, built with [Hugo](https://gohugo.io/) and designed to showcase my journey and projects in Computer Science, music, and video production. This site is a blend of my technical expertise and creative pursuits, offering insights into my latest work, from sustainable tourism to music production. 
 
----  
+---
 
 ## 🚀 About Me
  
